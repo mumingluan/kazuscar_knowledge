@@ -13,6 +13,7 @@
 * [开发版 1.5 GM](gioffline/1.2gm-1.md)
 * [2.6（可用 MelonLoader）](gioffline/2.6.md)
 * [3.2（可用 hk4e 真端）](gioffline/3.2.md)
+* [3.3（可用 MelonLoader）](gioffline/3.3-ke-yong-melonloader.md)
 * [3.2～4.0 旭东泄露](gioffline/xudongdata.md)
 * [最新正式版【3.4】](gioffline/latest.md)
 
